@@ -17,8 +17,11 @@ In this problem, we use Kaggle’s Apparel images dataset, which includes images
 FILES
 
 • Capstone2.ipynb - main Jupyter notebook for project
+
 • lrFinderCapstone2.ipynb - auxilliary Jupyter notebook for implementin Learning Rate Finder
+
 • CapstoneTwoFinalReport.pdf - pdf of Report document
+
 • CapstoneTwoPresentation.pdf - pdf of presentation slides
 
 
