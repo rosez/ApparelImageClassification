@@ -18,7 +18,7 @@ FILES
 
 • Capstone2.ipynb - main Jupyter notebook for project
 
-• lrFinderCapstone2.ipynb - auxilliary Jupyter notebook for implementin Learning Rate Finder
+• lrFinderCapstone2.ipynb - auxilliary Jupyter notebook for implementing Learning Rate Finder
 
 • CapstoneTwoFinalReport.pdf - pdf of Report document
 
